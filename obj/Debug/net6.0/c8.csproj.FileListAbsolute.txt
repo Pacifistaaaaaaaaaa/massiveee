@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\c8\bin\Debug\net6.0\c8.exe
+C:\Users\Олег\Desktop\c8\bin\Debug\net6.0\c8.deps.json
+C:\Users\Олег\Desktop\c8\bin\Debug\net6.0\c8.runtimeconfig.json
+C:\Users\Олег\Desktop\c8\bin\Debug\net6.0\c8.dll
+C:\Users\Олег\Desktop\c8\bin\Debug\net6.0\c8.pdb
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\c8.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\c8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\c8.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\c8.AssemblyInfo.cs
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\c8.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\c8.dll
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\refint\c8.dll
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\c8.pdb
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\c8.genruntimeconfig.cache
+C:\Users\Олег\Desktop\c8\obj\Debug\net6.0\ref\c8.dll
